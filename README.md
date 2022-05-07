@@ -6,7 +6,7 @@ set-up over and over. So I started this repo to share the tooling across
 the repos and in the new repo that I start. Here are the thing that I have
 learn doing this.
 
-[![MegaLinter](https://github.com/dschveninger/dougschveninger/workflows/MegaLinter/badge.svg?branch=main)](https://github.com/dschveninger/dougschveninger/actions?query=workflow%3AMegaLinter+branch%3Amain) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5e8bce49e0df4be8a880f2df02759d88)](https://app.codacy.com/gh/dschveninger/dougschveninger/dashboard?utm_source=github.com&utm_medium=referral&utm_content=dschveninger/dougschveninger&utm_campaign=Badge_Grade)
+[![MegaLinter](https://github.com/dschveninger/common-tools/workflows/MegaLinter/badge.svg?branch=main)](https://github.com/dschveninger/common-tools/actions?query=workflow%3AMegaLinter+branch%3Amain) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5e8bce49e0df4be8a880f2df02759d88)](https://app.codacy.com/gh/dschveninger/common-tools/dashboard?utm_source=github.com&utm_medium=referral&utm_content=dschveninger/common-tools&utm_campaign=Badge_Grade)
 
 ## New repo set-up steps
 
