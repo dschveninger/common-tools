@@ -14,7 +14,12 @@ learn doing this.
    1. Create .mega-linter.yml using a copy from another repo. Now using this repo's file.
    2. update .gitignore for
       1. report/
+   3. Copy .github/linters files from here to new repo and review settings.
 2. Create github directory. For workflow folder.
 3. Create TODO.md
 4. Update README.md
    1. Copy Badges
+      1. Mega Linter
+      2. Codacy
+      3. License
+5. TODO submodule and make set up needed

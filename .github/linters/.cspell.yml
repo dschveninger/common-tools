@@ -27,41 +27,11 @@ imports:
 version: "0.2"
 useGitignore: true
 words:
-  - BitBuckt
   - Codacy
+  - SARIF
   - codeql
-  - CICS
-  - CICD
-  - dougschveninger
-  - dschveninger
-  - dschvenigergithub
-  - Etherpad
-  - financials
-  - Gerrit
-  - howto
-  - Infinispan
-  - Introscope
-  - JDBC
-  - JNDI
-  - Konstraint
-  - Kube
-  - kubernetes
-  - Nacef
-  - Orbix
-  - pandoc
-  - Qube
-  - RDBMS
-  - redhwan
-  - Rego
   - sarif
   - Schveninger
-  - servlets
-  - substr
-  - Telco
-  - TIBCO
-  - Visio
-  - Websphere
-  - yapf
 
 flagWords:
   - hte
