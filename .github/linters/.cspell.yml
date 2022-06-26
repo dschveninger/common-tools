@@ -28,6 +28,7 @@ version: "0.2"
 useGitignore: true
 words:
   - Codacy
+  - pandoc
   - SARIF
   - codeql
   - sarif
